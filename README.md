@@ -13,6 +13,6 @@
 - 💾 lightweight & safe – no other system modifications
 
 
-# 📜 why this module?
+# 📜 Why this module?
 Samsung redesigned its emoji in one ui 6, giving them a new modern look. but if you prefer the original expressive style from one ui 3-5, this module restores them exactly as they were. enjoy your favorite old emoji in every app, just like before the update.
 
